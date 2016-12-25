@@ -35,7 +35,7 @@ namespace UI
                 Bank a = new Bank();
                 a.BankNumber = textBox1.Text;
                 a.BanksName = textBox.Text;
-
+                //David
 
                 //Your code
                 // BL.insertBank(a);
