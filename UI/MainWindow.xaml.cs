@@ -39,7 +39,7 @@ namespace UI
 
                 //Your code
                 // BL.insertBank(a);
-                MessageBox.Show("Data inserted in database!", "Data");
+                MessageBox.Show("Data inserted in database!", "Data Insert");
 
             }
             catch (Exception ex)
